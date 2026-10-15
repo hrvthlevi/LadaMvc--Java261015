@@ -9,6 +9,6 @@ package modell;
  *
  * @author leventehorvath
  */
-public class NewClass {
+public class Lada {
     
 }
